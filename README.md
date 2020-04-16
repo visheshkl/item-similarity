@@ -1,5 +1,5 @@
 # item-similarity
-Python 3 Libraries Used:Pandas,MatplotLib 
+Python 3 Libraries Used: Pandas, MatplotLib 
  
 ## Content Based Movie Recommender System using Python 3
  
