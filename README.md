@@ -5,7 +5,7 @@ Python 3 Libraries Used: Pandas, MatplotLib
  
 # How to use?
 
-Note: To maintain the ennvironments, I highly recommend using [conda](https://docs.conda.io/en/latest/).
+Note: To maintain the environments, I highly recommend using [conda](https://docs.conda.io/en/latest/).
 
 * git clone *git@github.com:visheshkl/item-similarity.git*
 * cd *item-similarity*
